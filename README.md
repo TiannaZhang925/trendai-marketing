@@ -1,5 +1,8 @@
 # TrendAI Marketing Agent · AI 新媒体运营技能
 
+> **🔗 在线演示（可直接使用）**：<https://trendai-marketing-2cfa2h806us.qoder.zone>
+> 浏览器打开即可体验：填写企业资料 → 选择品牌调性与目标平台 → 一键生成今日营销机会 Top 10。无需登录、无需安装。
+
 一个 [Qoder CLI](https://qoder.cn) Skill：让你的 AI 编程助手变身「企业版 AI 新媒体运营员工」。
 
 每天自动完成内容运营闭环：**实时搜索全网热点 → 结合品牌资料分析匹配机会 → 按平台规范生成营销文案 → AI 生成配图 → 四维策略评分与优化建议。**
@@ -19,7 +22,7 @@
 **方式一：克隆到用户级技能目录（所有项目可用，推荐）**
 
 ```bash
-git clone https://github.com/<你的用户名>/trendai-marketing.git \
+git clone https://github.com/TiannaZhang925/trendai-marketing.git \
   ~/.qoder-cn/skills/trendai-marketing
 ```
 
